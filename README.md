@@ -23,3 +23,6 @@ Este é um aplicativo web para exibir e buscar fotos de uma galeria dinâmica ut
    git clone https://github.com/SEU_USUARIO/galeria-de-fotos.git
 
 
+Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+
+
