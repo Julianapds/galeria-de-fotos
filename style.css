@@ -238,7 +238,7 @@ footer {
   }
 
 }
-/* Responsividade */
+
 @media (max-width: 768px) {
   .gallery-item img {
     width: 100%;
